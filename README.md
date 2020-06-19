@@ -1,4 +1,4 @@
-# MyERPPlusBy Huda
+# MyERPPlus By Huda
 
 ## Panduan untuk memulai dengan Jekyll.
 
